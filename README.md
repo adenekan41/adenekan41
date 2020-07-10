@@ -16,10 +16,9 @@
 
 📫 You can reach me at hellocodewonders@gmail.com.
 
-👓 I love photochromic lens you could see my collection [here](https://codewonders.dev/lens)
-
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about anything and everything around JavaScript.
+- 👓 Yeah I'm a photochromic lens enthusiast, see my collections [here](https://codewonders.dev/lens)
 - 💬 Ask me about JavaScript, CSS, React, Vue and anything about Jazz Music 🎺
 - ⚡ Fun fact: I play the drums 🥁. shhh dont tell anyone 😄
 

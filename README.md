@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://codewonders.dev/icons/favicon-96x96.png" width="70" />  
-  <h2 align="center"><a href="https://codewonders.dev">Adenekan Wonderful</a></h2>
-  <p align="center"> Frontend developer and Javascript engineer</p>
+  <img src="https://codewonders.dev/icons/favicon-96x96.png" width="60" />  
+  <h2 align="center"><a href="https://codewonders.dev">I'm Adenekan Wonderful</a></h2>
+  <p align="center"> Frontend developer and JavaScript engineer</p>
 </p>
 
 <p align="center">
@@ -10,14 +10,18 @@
   <a href="https://linkedin.com/in/codewonders">LinkedIn</a>
 </p>
 
+<br />
+
 💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://codewonders.dev/projects), [Articles](https://codewonders.dev/articles), [Resumé](https://codewonders.dev/resume), [Contact Me](https://codewonders.dev/contact).
 
 📫 You can reach me at hellocodewonders@gmail.com.
 
+👓 I love photochromic lens you could see my collection [here](https://codewonders.dev/lens)
+
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 💬 Ask me about JavaScript, CSS, React, Vue and anything about Jazz Music 🎺
-- ⚡ Fun fact: I play the drums. shhh dont tell anyone 😄
+- ⚡ Fun fact: I play the drums 🥁. shhh dont tell anyone 😄
 
 
 <!--

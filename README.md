@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://codewonders.dev/icons/favicon-96x96.png" width="60" />  
+  <img src="https://codewonders.dev/icons/favicon-96x96.png" width="70" />  
   <h2 align="center"><a href="https://codewonders.dev">I'm Adenekan Wonderful</a></h2>
   <p align="center"> Frontend developer and JavaScript engineer</p>
 </p>

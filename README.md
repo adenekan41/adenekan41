@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://codewonders.dev/icons/favicon-96x96.png" width="70" />  
-  <h2 align="center"><a href="https://codewonders.dev">I'm Adenekan Wonderful</a></h2>
-  <p align="center"> Frontend developer and JavaScript engineer</p>
+  <img src="https://user-images.githubusercontent.com/25548490/121235884-40eab680-c88d-11eb-9a5d-b923d7df4905.png" width="150" />  
+  <h1 align="center"><a href="https://codewonders.dev">I'm Adenekan Wonderful</a></h1>
+  <p align="center"> Frontend developer, UX architect and JavaScript engineer</p>
 </p>
 
 <p align="center">
@@ -20,14 +20,15 @@
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 👓 Yeah I'm a photochromic lens enthusiast, see my collections [here](https://codewonders.dev/lens)
 - 💬 Ask me about JavaScript, CSS, React, Vue and anything about Jazz Music 🎺
-- ⚡ Fun fact: I play the drums 🥁. shhh dont tell anyone 😄
+- ⚡ Fun fact: I play the drums 🥁.
+
 
 
 <!--
 **adenekan41/adenekan41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://user-images.githubusercontent.com/25548490/121235376-b86c1600-c88c-11eb-9650-2c86c77f43ac.png
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

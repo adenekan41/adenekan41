@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/25548490/121235884-40eab680-c88d-11eb-9a5d-b923d7df4905.png" width="120" />  
+  <img src="https://i.ibb.co/1MfwVkV/Linkedd-In-cover-1.png" width="100%" />  
   <h1 align="center"><a href="https://codewonders.dev">I'm Adenekan Wonderful</a></h1>
   <p align="center"> Frontend developer, UX architect and JavaScript engineer</p>
 </p>
